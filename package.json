@@ -1,0 +1,17 @@
+{
+  "name": "lou.js",
+  "description": "JSWorks, remade",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "dependencies": {
+    "es6-symbol": "^3.1.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.15.4",
+    "mocha": "^3.5.0",
+    "node-watch": "^0.5.5"
+  }
+}
